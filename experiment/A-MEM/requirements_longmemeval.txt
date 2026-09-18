@@ -1,0 +1,23 @@
+# Core
+numpy
+torch
+transformers
+sentence-transformers<4.0
+scikit-learn
+nltk
+accelerate
+
+# Memory retrieval
+rank-bm25
+
+# LLM backends
+openai
+litellm
+ollama
+
+# Evaluation metrics
+rouge-score
+bert-score
+
+# Progress & logging
+tqdm

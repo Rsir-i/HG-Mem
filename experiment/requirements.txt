@@ -1,0 +1,13 @@
+# Python dependencies for HG-Mem.
+# A working PyTorch with CUDA is required for end-to-end answer generation.
+
+numpy>=1.24
+torch>=2.0
+transformers>=4.40
+sentence-transformers>=2.6
+scikit-learn>=1.3
+nltk>=3.8
+
+# all-MiniLM-L6-v2 will be downloaded from Hugging Face on first use.
+# For end-to-end QA you also need a local copy of Qwen2.5-7B-Instruct
+# (passed via --qwen_path).
