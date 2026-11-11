@@ -293,7 +293,6 @@ If you find this repository useful, please cite our paper:
             Long-Term Memory Management for Conversational Agents},
   author = {Guo, Yuhang and Fan, Yanfang and Chen, Ruoyu and Cai, Ying and
             Wang, Jingqi and Li, Haitao and He, Xiaoye and Ji, Zhenghao},
-  journal = {Neurocomputing},
   year   = {2026},
   note   = {Manuscript submitted for publication}
 }
